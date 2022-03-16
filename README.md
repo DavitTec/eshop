@@ -70,6 +70,7 @@ to starts the development server.
     ```
 
 2. All fine,  now lets make some changes. Starting with README.md
+3. Added Top NAV and some styles
 
 ---
 
