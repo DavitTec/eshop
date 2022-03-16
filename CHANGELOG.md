@@ -3,7 +3,7 @@
 Installed NEXTjs Create APP and modified .gitignore
 
 <!-- CHANGELOG SPLIT MARKER -->
-<a name="0.0.1"></a>
+<a name="0.1.0"></a>
 # 0.0.1 
 | Commit | Type | Sub |  Description | src |
 | --- | --- | --- | --- | --- |
