@@ -1,3 +1,20 @@
+/* 
+ #DAVIT COLOR PALLET
+  #dc1c5c
+  #750e35
+  #efb4c7
+  #d6698f
+  #ec7ca4
+  #c494a4
+  #e4447c
+  #dc3c74
+  #f02c54
+  */
+
+.davit {
+  color: #dc1c5c;
+}
+
 .container {
   padding: 0 2rem;
 }
@@ -10,6 +27,23 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.nav {
+  color: #dc1c5c;
+  text-decoration: darkslategrey;
+}
+
+.nav a {
+  color: #091727;
+  text-decoration: darkslategrey;
+}
+
+.nav a:hover,
+.nav a:focus,
+.nav a:active {
+  text-decoration: underline;
+  color: #750e35;
 }
 
 .footer {
