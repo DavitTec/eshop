@@ -7,7 +7,7 @@ Installed NEXTjs Create APP and modified .gitignore
 # 0.1.4
 | Commit | Type | Sub |  Description | src |
 | --- | --- | --- | --- | --- |
-| 0.1.4 | feat  | core | Installed REACT tools / added Top bar navigation of new styles /added components, redux cart/store.      |  [#4](https://github.com/DavitTec/eshop/releases/tag/v0.1.4) |
+| 0.1.4 | feat  | core | Installed REACT tools / added Top bar navigation and some new styles / added components, redux cart/store.      |  [#4](https://github.com/DavitTec/eshop/releases/tag/v0.1.4) |
 | 0.1.1 | add  | --- | Add pages: About and Product pages / renamed index.js to nextjs.js, / added basic route navigation / added images an favicon. /basic footer and logo.   |  [#3](https://github.com/DavitTec/eshop/releases/tag/v0.1.1) |
 | 0.1.0 | add  | --- | Installed NEXTjs Create APP and modified .gitignore       |  [#2](https://github.com/DavitTec/eshop/releases/tag/v0.1.0) |
 | 0.0.1 | feat | --- | ADD README CHANGELOG LICENSE               |  [#1](https://github.com/DavitTec/eshop/releases/tag/v0.0.1) |
