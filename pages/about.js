@@ -1,13 +1,13 @@
+// about
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
-export default function Home() {
+export default function About() {
   return (
     <div>
       <Head>
-        <title>Best Shop in Town</title>
-        <meta name="description" content="Best shop in town" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>About</title>
+        <meta name="description" content="About" />
       </Head>
 
       {
@@ -24,32 +24,9 @@ export default function Home() {
         // end footer
       }
 
-      <div>
-        <main>
-          <h1>Home page</h1>
-        </main>
-
-        <ul>
-          <li>
-            <a href="/about">
-              <h3>About page &rarr;</h3>
-              <p>About us</p>
-            </a>
-          </li>
-          <li>
-            <a href="/products">
-              <h3>Products page &rarr;</h3>
-              <p>Our Products</p>
-            </a>
-          </li>
-          <li>
-            <a href="/nextjs">
-              <h3>Next JS &rarr;</h3>
-              <p>Learn more about NEXTjs</p>
-            </a>
-          </li>
-        </ul>
-      </div>
+      <main>
+        <h1>About</h1>
+      </main>
 
       {
         // Insert footer

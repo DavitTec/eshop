@@ -32,9 +32,9 @@ __Building a eCommerce full stack Website__
  - [X] Browsers
     - [X] [Brave](https://brave.com/download/) or Chrome or more
  - [X] Graphics
-    - [ ] [GIMP](https://www.gimp.org/)
+    - [X] [GIMP](https://www.gimp.org/)
  - [X] Database
-    - [X] [MongoDB](https://docs.mongodb.com/manual/administration/install-community/) and 
+    - [X] [MongoDB](https://docs.mongodb.com/manual/administration/install-community/) and
     - [X] [MongoDB compass](https://www.mongodb.com/try/download/compass)
 
 ## Install
@@ -49,7 +49,7 @@ __Building a eCommerce full stack Website__
    git add .
    git commit -m "First commit - installed NEXT App"
    ```
-   
+
    Now open, eg
 
    ```bash
@@ -68,7 +68,7 @@ to starts the development server.
     ## Lets start server
     # http://localhost:3000
     ```
-    
+
 2. All fine,  now lets make some changes. Starting with README.md
 
 ---

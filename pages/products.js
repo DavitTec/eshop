@@ -5,9 +5,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Best Shop in Town</title>
-        <meta name="description" content="Best shop in town" />
-        <link rel="icon" href="/favicon.ico" />
+        <title>About</title>
+        <meta name="description" content="About" />
       </Head>
 
       {
@@ -25,29 +24,11 @@ export default function Home() {
       }
 
       <div>
-        <main>
-          <h1>Home page</h1>
-        </main>
-
+        <h1>Products</h1>
         <ul>
-          <li>
-            <a href="/about">
-              <h3>About page &rarr;</h3>
-              <p>About us</p>
-            </a>
-          </li>
-          <li>
-            <a href="/products">
-              <h3>Products page &rarr;</h3>
-              <p>Our Products</p>
-            </a>
-          </li>
-          <li>
-            <a href="/nextjs">
-              <h3>Next JS &rarr;</h3>
-              <p>Learn more about NEXTjs</p>
-            </a>
-          </li>
+          <li>Product 1</li>
+          <li>Product 2</li>
+          <li>Product 3</li>
         </ul>
       </div>
 
