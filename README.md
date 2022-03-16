@@ -22,19 +22,20 @@ __Building a eCommerce full stack Website__
 
 ### Development environment
  - [ ] Setup Linux
- - [ ] SLanguage and Modules
-    - [ ] SNode.js
- - [ ] SGIT
-    - [ ] Stand-alone or GITHUB
-   - [ ] S[GIT Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
- - [ ] SIntegrated development environment (IDE)
-   - [ ] SVS Code or Atom
- - [ ] SBrowsers
-    - [ ] SBrave or Chrome or more
- - [ ] SGraphics
-    - [ ] SGIMP
- - [ ] SDatabase
-    - [ ] SMongoDB and MongoDB with compass
+ - [ ] Language and Modules
+    - [ ] [Node.js](https://nodejs.org/en/download/)
+ - [ ] GIT
+    - [ ] Stand-alone or [signup to GITHUB](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+   - [ ] [GIT Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+ - [ ] Integrated development environment (IDE)
+   - [ ] [VS Code](https://code.visualstudio.com/Download) or [Atom](https://atom.io/)
+ - [ ] Browsers
+    - [ ] [Brave](https://brave.com/download/) or Chrome or more
+ - [ ] Graphics
+    - [ ] [GIMP](https://www.gimp.org/)
+ - [ ] Database
+    - [ ] [MongoDB](https://docs.mongodb.com/manual/administration/install-community/) and 
+    - [ ] [MongoDB compass](https://www.mongodb.com/try/download/compass)
 
 ## Install
 
