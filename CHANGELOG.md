@@ -1,11 +1,15 @@
 
+
+Installed NEXTjs Create APP and modified .gitignore
+
 <!-- CHANGELOG SPLIT MARKER -->
 <a name="0.0.1"></a>
 # 0.0.1 
 | Commit | Type | Sub |  Description | src |
 | --- | --- | --- | --- | --- |
-|0.0.1 | feat | --- | ADD README CHANGELOG LICENSE               |  [#1](https://github.com/DavitTec/eshop/releases/tag/v0.0.1) |
-| 0.0.0  | add  | --- | initial Commit   | --- |
+| 0.1.0 | add  | --- | Installed NEXTjs Create APP and modified .gitignore       |  [#2](https://github.com/DavitTec/eshop/releases/tag/v0.1.0) |
+| 0.0.1 | feat | --- | ADD README CHANGELOG LICENSE               |  [#1](https://github.com/DavitTec/eshop/releases/tag/v0.0.1) |
+| 0.0.0 | add  | --- | initial Commit   | --- |
 
 
 <!-- CHANGELOG SPLIT MARKER -->
