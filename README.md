@@ -71,7 +71,7 @@ to starts the development server.
 
 2. All fine,  now lets make some changes. Starting with README.md
 3. Added Top NAV and some styles
-4. Installed Bootstrap 5, linked font-awesome, added footer with svg embed, some new styles, added components.
+4. Installed [Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/), linked [font-awesome](https://www.bootstrapcdn.com/fontawesome/), added footer with svg embed, some new styles, added components.
 
 ---
 
