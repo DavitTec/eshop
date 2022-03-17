@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>About</title>
-        <meta name="description" content="About" />
+        <title>Products</title>
+        <meta name="description" content="Products" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div>
@@ -17,28 +18,6 @@ export default function Home() {
           <li>Product 3</li>
         </ul>
       </div>
-
-      {
-        // Insert footer
-      }
-      <footer>
-        <a
-          href="https://davittec.github.io/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by {'   '}
-          <img
-            className={styles.logo}
-            src="/img/davit.svg"
-            alt="DAVIT LOGO"
-            height="16"
-          />
-        </a>
-      </footer>
-      {
-        // end footer
-      }
     </div>
   );
 }

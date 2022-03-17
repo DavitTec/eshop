@@ -24,7 +24,7 @@ const Navbar = () => {
             <li className={styles.listItem}>Products</li>
           </Link>
           <Link href="/nextjs" passHref>
-            <li className={styles.listItem}>Nextsjs</li>
+            <li className={styles.listItem}>Nextjs</li>
           </Link>
           <li className={styles.listItem}>Contact</li>
         </ul>

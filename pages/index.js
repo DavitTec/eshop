@@ -9,18 +9,12 @@ export default function Home() {
       <Head>
         <title>Best Shop in Town</title>
         <meta name="description" content="Best shop in town" />
+
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {
-        // Insert Nav
-      }
-      MOVED Nav
-      {
-        // Insert footer
-      }
-      {
-        // end footer
-      }
+      <main>
+        <h1>HOME PAGE</h1>
+      </main>
     </div>
   );
 }

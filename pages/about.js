@@ -8,33 +8,12 @@ export default function About() {
       <Head>
         <title>About</title>
         <meta name="description" content="About" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1>About</h1>
       </main>
-
-      {
-        // Insert footer
-      }
-      <footer>
-        <a
-          href="https://davittec.github.io/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by {'   '}
-          <img
-            className={styles.logo}
-            src="/img/davit.svg"
-            alt="DAVIT LOGO"
-            height="16"
-          />
-        </a>
-      </footer>
-      {
-        // end footer
-      }
     </div>
   );
 }
