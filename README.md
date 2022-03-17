@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/DavitTec/eShop?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/DavitTec/eShop?style=social)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/DavitTec/eShop/pages%20build%20and%20deployment/gh-pages)
-![version](https://img.shields.io/badge/build-0.1.4-orange?style=social)
+![version](https://img.shields.io/badge/build-0.1.5-orange?style=social)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/DavitTec/eShop?label=version&logo=davit&sort=semver)
 ![node-lts](https://img.shields.io/node/v/eShop?color=%23750e35&style=social)
 
@@ -71,6 +71,7 @@ to starts the development server.
 
 2. All fine,  now lets make some changes. Starting with README.md
 3. Added Top NAV and some styles
+4. Installed Bootstrap 5, linked font-awesome, added footer with svg embed, some new styles, added components.
 
 ---
 
